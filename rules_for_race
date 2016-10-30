@@ -1,0 +1,12 @@
+		RULES BEFORE YOU OPT FOR A RACE
+
+1. The window will show the text to be typed as it is(case sensitive).
+2. Every incorrect character typed will display highlighted '^'. 
+   you can correct the character using 'BACKSPACE'.  
+3. When a character is typed incorrectly, you can change it unlimited 
+   number of times. Remember, it affects your accuracy.
+4. Do not add a newline character after you have completed typing the
+   entire text displayed.
+5. Two typing speeds(net & gross) will be displayed at the right corner 
+   of the screen once you are done typing the entire text.
+6. If you are done reading the above points then START THE RACE!!

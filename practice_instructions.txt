@@ -1,0 +1,15 @@
+************Tips before you take up the practice session*************
+		 
+1) The practice lesson window shows the text to be typed as it is at 
+   the topmost part of page.
+2) Typing area for the learner is provided below. Beofre you reach the
+   typing window, you will be asked to choose from amongst the two 
+   typing modes- Type ignoring corrections or Allow corrections using 
+   backspace.
+3) The indication of the wrongly typed character is shown by a highlight 
+   of '^' character and by a beep sound(for that, you need to check your
+   beep settings, use HELP option to know how to change beep settings).
+4) Typing speed is enhanced only when you use the proper fingers to type 
+   the appropriate character from the keyboard. The practice lessons also 
+   provide you a keyboard layout which shows the hand and the finger to be
+   used to type every character of your text as the typing proceeds.

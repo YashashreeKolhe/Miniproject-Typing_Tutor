@@ -1,0 +1,15 @@
+`htypist' is a typing tutor with several lessons for different keyboards and languages. New lessons can be written by the user easily.
+
+Usage: 1) project (If you want to open the main window of the program and use the options by selecting one from the main menu).
+       2) project [ options... ] (If you directly go to a specific option from the main menu of the program through command line).
+
+Options:
+-t      turn off WPM timer in drills
+-s     don't beep on errors 
+-q      same as -s 
+-h      print this message 
+-s      direct display of the speed test window
+-p	direct display of the practice lessons window
+-n	direct disply of the numeric drill window
+-sc     direct display of the score chart on the terminal
+-sc <name>      direct display of the entry from the score record which matches the name given in the command line arguement.

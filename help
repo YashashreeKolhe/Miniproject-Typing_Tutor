@@ -1,0 +1,23 @@
+***************************HELP********************************
+#Change beep sound settings:
+	1) Type the command >alsamixer on your terminal, and check
+	whether the beep settings are enabled. Else enable them by
+	typing 'e' and adjust the volume as per requirement.
+	
+#Accesing Project through command line arguement:
+	1) Type command '>./project -h' on the terminal to know more 
+	about command line handling of the project.
+	
+#Time calculations:
+	1) Gross, or Raw WPM (Words Per Minute) is a calculation of 
+	exactly how fast you type with no error penalties. The gross 
+	typing speed is calculated by taking all words typed and 
+	dividing by the time it took to type the words in minutes.
+	2) To calculate Net WPM, take your gross WPM result and 
+	subtract the amount of errors you left in per minute, 
+	also known as the error rate.
+
+Read the instructions appearing at the top of every window to 
+proceed to the further window or return to the previous window.
+
+The instructions appear in cyan colour background.
