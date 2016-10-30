@@ -209,7 +209,7 @@ void character_check(WINDOW *subwin, char *str, int boolean, int function) {
 				wrefresh(subwin);
 				if(arr[j+1] == 32) {   
 					wattron(subwin, COLOR_PAIR(2));
-					mvwprintw(subwin, 20, 40, "Press ' ' with Thumb       of Right hand");
+					mvwprintw(subwin, 20, 40, "Press ' ' with Thumb      of Right hand");
 					mvwprintw(subwin, 40, 4 + 12*4, " T ");
 					wattroff(subwin, COLOR_PAIR(2));
 					localx = 4+12*4;
